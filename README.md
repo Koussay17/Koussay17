@@ -265,7 +265,7 @@ Languages
 
 <img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&color=bfc7d5"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&color=9ca8be"/>
 
