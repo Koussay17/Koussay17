@@ -1,29 +1,28 @@
-<!-- =========================
-   GITHUB PROFILE README - KOUSSAY17
-   Theme: Dark / Gothic / Aerospace / Fluid Mechanics
-   ========================= -->
+<div align="center">
 
-<div align="center" style="background-color:#07090d; padding: 30px; border: 1px solid #1b2330; border-radius: 18px;">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:05070b,50:0d1117,100:161b22&height=180&section=header&text=KOUSSAY17&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=50" />
 
-  <h1 style="margin-bottom: 8px; color:#e8edf7; font-family: Georgia, serif; letter-spacing: 2px;">
-    KOUSSAY17
+</div>
+
+<div align="center">
+  <h1 style="margin-bottom:6px; color:#e6edf3; letter-spacing:3px;">
+    AEROSPACE • FLUID MECHANICS • THERMAL SCIENCES
   </h1>
-
-  <h3 style="margin-top: 0; color:#9aa6b8; font-weight: normal;">
-    Aerospace Engineer • Fluid Mechanics • Simulation • Aerodynamics
+  <h3 style="margin-top:0; color:#9da7b3; font-weight:400;">
+    Engineering the invisible forces — flow, heat, propulsion, stability
   </h3>
+</div>
 
-  <p style="max-width: 780px; color:#b9c2d0; font-size: 16px; line-height: 1.7;">
-    I build and study systems where <b>flow, structure, and performance</b> intersect —
-    from <b>aerodynamics</b> and <b>fluid behavior</b> to <b>numerical modeling</b>,
-    <b>engineering analysis</b>, and <b>high-precision problem solving</b>.
-  </p>
+---
 
-  <p>
-    <img src="https://img.shields.io/badge/Domain-Aerospace-111827?style=for-the-badge&logo=airbus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Specialization-Fluid%20Mechanics-0f172a?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-CFD%20%7C%20Aerodynamics%20%7C%20Simulation-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Aerospace-0b0f14?style=for-the-badge&logo=airbus&logoColor=white" />
+<img src="https://img.shields.io/badge/Fluid%20Mechanics-0b0f14?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/CFD-0b0f14?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Propulsion-0b0f14?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Heat%20Transfer-0b0f14?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img src="https://img.shields.io/badge/Theoretical%20Physics-0b0f14?style=for-the-badge&logo=atom&logoColor=white" />
 
 </div>
 
@@ -31,33 +30,63 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,161b22,1f2937&height=140&section=header&text=Engineering%20the%20Invisible%20Forces&fontSize=28&fontColor=e5e7eb&animation=fadeIn" />
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 𖤐 About Me
+
+I am an engineering student focused on **fluid mechanics and energetics**, with a growing profile at the intersection of:
+
+- **aerospace engineering**
+- **computational fluid dynamics**
+- **thermal transfer**
+- **propulsion systems**
+- **experimental and numerical analysis**
+- **theoretical physics-driven reasoning**
+
+My work is driven by one obsession:  
+**understanding the physics behind performance**.
+
+I am especially interested in systems where **flow, energy, structure, and stability** interact under strong physical constraints.
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" alt="abstract dark aerospace motion" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<h2 align="center" style="color:#e5e7eb;">✦ About Me</h2>
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
+## ✦ Engineering Identity
 
 ```yaml
-name: Koussay
+name: Koussay Mansouri
 github: Koussay17
-field: Aerospace Engineering
-specialization: Fluid Mechanics
-interests:
-  - Aerodynamics
+location: Valenciennes, France
+
+discipline:
+  - Aerospace Engineering
+  - Fluid Mechanics
+  - Energetics
+
+core_interests:
   - CFD
-  - Flow Physics
-  - Turbulence
-  - Aircraft Performance
-  - Numerical Simulation
-  - Engineering Optimization
+  - Propulsion
+  - Heat Transfer
+  - Aerodynamics
+  - Experimental Mechanics
+  - Theoretical Physics
+  - Numerical Modeling
+  - Scientific Computing
+
 mindset:
-  - Analytical
-  - Technical
-  - Precise
-  - Research-driven
+  - research-oriented
+  - analytical
+  - physically grounded
+  - sharp engineering reasoning
