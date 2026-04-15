@@ -67,7 +67,7 @@ I am especially interested in systems where **flow, energy, structure, and stabi
 
 ```yaml
 name: Koussay Mansouri
-github: M. Koussay
+github: Koussay17
 location: Valenciennes, France
 
 discipline:
