@@ -237,7 +237,7 @@ mindset:
 
 <div align="center">
 
-<table width="90%">
+<table width="50%">
 <tr>
 
 <!-- LEFT: STATS -->
@@ -262,7 +262,10 @@ src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=tr
 </div>
 
 </td>
-
+</tr>
+</table>
+<table width="50%">
+<tr>
 <!-- RIGHT: LANGUAGES -->
 
 <td width="50%" align="center">
