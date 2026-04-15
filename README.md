@@ -229,32 +229,56 @@ mindset:
 
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<h2 style="color:#e9edf7;">✦ GitHub Stats</h2>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=4b5671&bg_color=00000000">
-
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<h2 style="color:#e9edf7;">✦ Most Used Languages</h2>
+<h2 align="center" style="color:#e9edf7;">
+✦ GitHub Activity & Languages
+</h2>
 
 <div align="center">
 
+<table width="90%">
+<tr>
+
+<!-- LEFT: STATS -->
+
+<td width="50%" align="center">
+
+<h3 style="color:#e9edf7;">
+GitHub Stats
+</h3>
+
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koussay17&layout=compact&theme=transparent&title_color=eceff7&text_color=b6bfd0&border_color=4b5671&bg_color=00000000">
+src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=4b5671&bg_color=00000000">
+
+</td>
+
+<!-- RIGHT: LANGUAGES -->
+
+<td width="50%" align="center">
+
+<h3 style="color:#e9edf7;">
+Languages
+</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&color=bfc7d5"/>
 
 <br><br>
 
-<!-- Human Languages -->
+<img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&color=9ca8be"/>
 
-<img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&labelColor=130f2d&color=bfc7d5"/>
+</p>
 
-<img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&labelColor=130f2d&color=9ca8be"/>
+</td>
+
+</tr>
+</table>
 
 </div>
+
 <hr style="border:1px solid #2c3e67; width:90%;">
-
-<h2 style="color:#e9edf7;">Contact</h2>
-
 <p>
 <a href="mailto:koussay_mansouri@yahoo.com">
 <img src="https://img.shields.io/badge/Email-0d1020?style=for-the-badge&color=909db8">
