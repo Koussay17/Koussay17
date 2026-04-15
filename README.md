@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:05070b,50:0d1117,100:161b22&height=180&section=header&text=KOUSSAY17&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:05070b,50:0d1117,100:161b22&height=180&section=header&text=M. Koussay&fontSize=48&fontColor=e6edf3&animation=fadeIn&fontAlignY=50" />
 
 </div>
 
@@ -67,7 +67,7 @@ I am especially interested in systems where **flow, energy, structure, and stabi
 
 ```yaml
 name: Koussay Mansouri
-github: Koussay17
+github: M. Koussay
 location: Valenciennes, France
 
 discipline:
