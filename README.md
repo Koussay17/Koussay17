@@ -242,7 +242,7 @@ mindset:
 
 <!-- LEFT: STATS -->
 
-<td width="50%" align="center">
+<td width="50%" >
 
 <h3 style="color:#e9edf7; margin-bottom:10px;">
 GitHub Stats
@@ -264,6 +264,9 @@ src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=tr
 </td>
 </tr>
 </table>
+
+
+
 <table width="50%">
 <tr>
 <!-- RIGHT: LANGUAGES -->
