@@ -4,9 +4,7 @@
 
 
 
-<h3 style="color:#9da7b3;">
-Aerospace Engineering • CFD • Propulsion • Heat Transfer • Theoretical Physics
-</h3>
+
 
 <p>
 <img src="https://img.shields.io/badge/Aerospace-0d1020?style=for-the-badge&color=7c87a6"/>
