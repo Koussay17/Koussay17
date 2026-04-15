@@ -267,7 +267,7 @@ src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=tr
 
 <td width="50%" align="center">
 
-<h3 style="color:#e9edf7;">
+<h3 style="color:#e9edf7; margin-bottom:10px;">
 Most Used Languages
 </h3>
 
