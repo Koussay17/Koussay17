@@ -263,7 +263,7 @@ border-radius:10px;
 background-color:rgba(11,15,31,0.4);
 ">
 
-<img height="170"
+<img height="200"
 src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=00000000&bg_color=00000000">
 
 </div>
