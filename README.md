@@ -244,10 +244,22 @@ mindset:
 
 <td width="50%" align="center">
 
+<h3 style="color:#e9edf7; margin-bottom:10px;">
+GitHub Stats
+</h3>
 
+<div style="
+display:inline-block;
+padding:16px;
+border:1px solid #4b5671;
+border-radius:10px;
+background-color:rgba(11,15,31,0.4);
+">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=4b5671&bg_color=00000000">
+src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=00000000&bg_color=00000000">
+
+</div>
 
 </td>
 
