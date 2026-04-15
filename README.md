@@ -253,18 +253,39 @@ mindset:
 <!-- LEFT BOX : GITHUB STATS -->
 <td width="50%" align="center">
 
-
+<h3 style="color:#e9edf7; margin-bottom:10px;">
+GitHub Stats
+</h3>
 
 <div style="
 display:inline-block;
-padding:16px;
+padding:18px;
 border:1px solid #4b5671;
 border-radius:10px;
 background-color:rgba(11,15,31,0.4);
+text-align:left;
+min-width:260px;
 ">
 
-<img height="200"
-src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=00000000&bg_color=00000000">
+<p style="color:#b6bfd0; margin:6px 0;">
+⭐ <strong>Total Stars Earned:</strong> 0
+</p>
+
+<p style="color:#b6bfd0; margin:6px 0;">
+📝 <strong>Total Commits (last year):</strong> 18
+</p>
+
+<p style="color:#b6bfd0; margin:6px 0;">
+🔀 <strong>Total Pull Requests:</strong> 0
+</p>
+
+<p style="color:#b6bfd0; margin:6px 0;">
+🐞 <strong>Total Issues:</strong> 0
+</p>
+
+<p style="color:#b6bfd0; margin:6px 0;">
+📦 <strong>Repositories Contributed To:</strong> 0
+</p>
 
 </div>
 
@@ -279,14 +300,14 @@ Most Used Languages
 
 <div style="
 display:inline-block;
-padding:16px;
+padding:18px;
 border:1px solid #4b5671;
 border-radius:10px;
 background-color:rgba(11,15,31,0.4);
 ">
 
 <img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&color=bfc7d5"/>
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&color=9ca8be"/>
 
 </div>
