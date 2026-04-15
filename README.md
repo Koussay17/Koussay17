@@ -2,16 +2,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:070814,25:120f2b,55:1a1f4d,80:2c3e67,100:bfc7d5&text=M.%20Koussay&fontSize=56&fontColor=e9edf7&fontAlignY=38&desc=Aerospace%20Engineering%20•%20Fluid%20Mechanics%20•%20Theoretical%20Physics&descAlignY=58&descAlign=50&animation=fadeIn" />
 
-
-
-
-
 <p>
 <img src="https://img.shields.io/badge/Aerospace-0d1020?style=for-the-badge&color=7c87a6"/>
 <img src="https://img.shields.io/badge/Fluid%20Mechanics-0d1020?style=for-the-badge&color=5a6b9a"/>
 <img src="https://img.shields.io/badge/Propulsion-0d1020?style=for-the-badge&color=6778a5"/>
 <img src="https://img.shields.io/badge/Heat%20Transfer-0d1020?style=for-the-badge&color=909db8"/>
 <img src="https://img.shields.io/badge/Theoretical%20Physics-0d1020?style=for-the-badge&color=c0c8d8"/>
+</p>
+
+<hr style="border:1px solid #2c3e67; width:90%;">
+
+<h2 style="color:#e9edf7;">✦ Languages</h2>
+
+<p>
+<img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&labelColor=130f2d&color=9ca8be"/>
+<img src="https://img.shields.io/badge/English-C1-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&labelColor=130f2d&color=6778a5"/>
 </p>
 
 <hr style="border:1px solid #2c3e67; width:90%;">
@@ -111,117 +116,6 @@ mindset:
 <b style="color:#e9edf7;">Theoretical Physics</b>
 <br>
 <span style="color:#c7ced9;">Mathematical modeling</span>
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<h2 style="color:#e9edf7;">✦ Technical Stack</h2>
-
-<p>
-<img src="https://img.shields.io/badge/STAR--CCM+-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/MATLAB-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/Python-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/NumPy-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/C-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/C++-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/SQL-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/CATIA-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/Fusion360-0b0f1f?style=for-the-badge&color=6778a5"/>
-</p>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<h2 style="color:#e9edf7;">✦ Research Atmosphere</h2>
-
-<table width="90%">
-<tr>
-
-<td width="33%">
-
-<b style="color:#e9edf7;">Aerodynamics</b>
-
-<ul style="color:#c7ced9;">
-<li>External flows</li>
-<li>Profiles and bodies</li>
-<li>Drag analysis</li>
-<li>Simulation vs experiment</li>
-</ul>
-
-</td>
-
-<td width="33%">
-
-<b style="color:#e9edf7;">Propulsion</b>
-
-<ul style="color:#c7ced9;">
-<li>Rocket systems</li>
-<li>Sizing logic</li>
-<li>Ballistic stability</li>
-<li>Performance analysis</li>
-</ul>
-
-</td>
-
-<td width="33%">
-
-<b style="color:#e9edf7;">Thermal Sciences</b>
-
-<ul style="color:#c7ced9;">
-<li>Heat exchangers</li>
-<li>Thermal coefficients</li>
-<li>Inverse methods</li>
-<li>Prediction models</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<h2 style="color:#e9edf7;">✦ Future Observatory</h2>
-
-<table width="90%">
-<tr>
-
-<td width="33%">
-
-<h3 style="color:#e9edf7;">Research Repositories</h3>
-
-<ul style="color:#c7ced9;">
-<li>repo-name-01</li>
-<li>repo-name-02</li>
-<li>repo-name-03</li>
-</ul>
-
-</td>
-
-<td width="33%">
-
-<h3 style="color:#e9edf7;">Scientific Papers</h3>
-
-<ul style="color:#c7ced9;">
-<li>paper-title-01</li>
-<li>paper-title-02</li>
-<li>paper-title-03</li>
-</ul>
-
-</td>
-
-<td width="33%">
-
-<h3 style="color:#e9edf7;">Laboratory Work</h3>
-
-<ul style="color:#c7ced9;">
-<li>lab-project-01</li>
-<li>lab-project-02</li>
-<li>lab-project-03</li>
-</ul>
-
 </td>
 
 </tr>
