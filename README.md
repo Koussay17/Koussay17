@@ -253,9 +253,7 @@ mindset:
 <!-- LEFT BOX : GITHUB STATS -->
 <td width="50%" align="center">
 
-<h3 style="color:#e9edf7; margin-bottom:10px;">
-GitHub Stats
-</h3>
+
 
 <div style="
 display:inline-block;
