@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:070814,25:120f2b,55:1a1f4d,80:2c3e67,100:bfc7d5&text=M.%20Koussay&fontSize=56&fontColor=e9edf7&fontAlignY=38&desc=Aerospace%20Engineering%20•%20Fluid%20Mechanics%20•%20Theoretical%20Physics&descAlignY=58&descAlign=50&animation=fadeIn" />
 
-<h1 style="color:#e9edf7; letter-spacing:3px;">
-✦ M. KOUSSAY ✦
-</h1>
+
 
 <h3 style="color:#9da7b3;">
 Aerospace Engineering • CFD • Propulsion • Heat Transfer • Theoretical Physics
