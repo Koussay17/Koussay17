@@ -247,17 +247,23 @@ mindset:
 
 <div align="center">
 
-<!-- GITHUB STATISTICS CARD -->
-<table width="50%">
+<table width="70%">
 <tr>
 
-<td width="50%" >
+<!-- LEFT BOX : GITHUB STATS -->
+<td width="50%" align="center">
 
 <h3 style="color:#e9edf7; margin-bottom:10px;">
 GitHub Stats
 </h3>
 
-<div style="display:inline-block; padding:16px; border:1px solid #4b5671; border-radius:10px; background-color:rgba(11,15,31,0.4);">
+<div style="
+display:inline-block;
+padding:16px;
+border:1px solid #4b5671;
+border-radius:10px;
+background-color:rgba(11,15,31,0.4);
+">
 
 <img height="170"
 src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=eceff7&text_color=b6bfd0&icon_color=8da2d1&border_color=00000000&bg_color=00000000">
@@ -265,26 +271,27 @@ src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=tr
 </div>
 
 </td>
-</tr>
-</table>
 
-<!-- LANGUAGE PROFICIENCY BADGES -->
-<table width="50%">
-<tr>
-
+<!-- RIGHT BOX : LANGUAGES -->
 <td width="50%" align="center">
 
 <h3 style="color:#e9edf7; margin-bottom:10px;">
 Most Used Languages
 </h3>
 
-<p>
+<div style="
+display:inline-block;
+padding:16px;
+border:1px solid #4b5671;
+border-radius:10px;
+background-color:rgba(11,15,31,0.4);
+">
 
 <img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge&logo=france&logoColor=white&color=bfc7d5"/>
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge&logo=unitedkingdom&logoColor=white&color=9ca8be"/>
 
-</p>
+</div>
 
 </td>
 
