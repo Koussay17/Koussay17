@@ -231,7 +231,7 @@ Dilaton dynamics • Non-singular bounce solutions • Numerical integration
 </p>
 
 <div style="margin-top:18px;">
-<a href="./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf">
+<a href="./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf">
 <img src="https://img.shields.io/badge/Read%20the%20Paper-0d1020?style=for-the-badge&color=909db8">
 </a>
 </div>
