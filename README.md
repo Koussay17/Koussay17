@@ -190,45 +190,66 @@ mindset:
 <!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- FUTURE OBSERVATORY - Placeholder content for future work -->
-<h2 style="color:#e9edf7;">✦ Future Observatory</h2>
+<!-- ACADEMIC PORTFOLIO -->
+<h2 style="color:#e9edf7;">✦ Academic Portfolio</h2>
 
 <table width="90%">
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3 style="color:#e9edf7;">Research Repositories</h3>
 
 <ul style="color:#c7ced9;">
-<li>repo-name-01</li>
-<li>repo-name-02</li>
-<li>repo-name-03</li>
+<li><a href="https://github.com/Koussay17/koussay-engineering-portfolio" style="color:#c7ced9;">Engineering Portfolio</a></li>
+<li><a href="https://github.com/Koussay17?tab=repositories" style="color:#c7ced9;">Fluid Mechanics & Aerodynamics Works</a></li>
+<li><a href="https://github.com/Koussay17?tab=repositories" style="color:#c7ced9;">Scientific Computing Projects</a></li>
 </ul>
+
+<p style="color:#c7ced9; line-height:1.6;">
+A structured collection of academic reports, engineering studies,
+and numerical notebooks in aerospace, fluid mechanics, and control.
+</p>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-<h3 style="color:#e9edf7;">Scientific Papers</h3>
+<h3 style="color:#e9edf7;">Scientific Works</h3>
 
 <ul style="color:#c7ced9;">
-<li>paper-title-01</li>
-<li>paper-title-02</li>
-<li>paper-title-03</li>
+<li>High-Lift Devices / Flaps</li>
+<li>Cylinder Wake – Aerodynamic Coefficients</li>
+<li>Nozzle Study</li>
+<li>Transition to Turbulence</li>
+<li>Heat Exchangers Analysis</li>
+<li>Automatic Control with Simulink</li>
 </ul>
+
+<p style="color:#c7ced9; line-height:1.6;">
+Selected works combining physical modeling, experimental interpretation,
+and engineering reasoning across multiple scientific domains.
+</p>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3 style="color:#e9edf7;">Laboratory Work</h3>
 
 <ul style="color:#c7ced9;">
-<li>lab-project-01</li>
-<li>lab-project-02</li>
-<li>lab-project-03</li>
+<li>Pressure losses & flow measurement</li>
+<li>Regular friction losses & turbulence transition</li>
+<li>Crossflow heat transfer</li>
+<li>Three-phase energy assessment</li>
+<li>Interdistance regulation</li>
+<li>Telecommunication investigation project</li>
 </ul>
+
+<p style="color:#c7ced9; line-height:1.6;">
+Hands-on laboratory projects involving data interpretation,
+validation, thermal systems, fluid flows, control, and instrumentation.
+</p>
 
 </td>
 
@@ -238,6 +259,44 @@ mindset:
 <!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
+<!-- FEATURED PROJECTS -->
+<h2 style="color:#e9edf7;">✦ Featured Engineering Projects</h2>
+
+<table width="90%">
+<tr>
+
+<td width="50%" valign="top" align="left">
+
+<h3 style="color:#e9edf7;">Aerospace & Fluid Mechanics</h3>
+
+<ul style="color:#c7ced9;">
+<li>High-lift devices and flaps in aviation</li>
+<li>Cylinder wake and aerodynamic drag coefficients</li>
+<li>Nozzle flow and compressible propulsion analysis</li>
+<li>Transition from laminar to turbulent regime</li>
+<li>Singular and regular pressure loss characterization</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top" align="left">
+
+<h3 style="color:#e9edf7;">Thermal, Control & Systems</h3>
+
+<ul style="color:#c7ced9;">
+<li>Crossflow heat exchangers and heat transfer coefficients</li>
+<li>Automatic control with MATLAB / Simulink / Home I/O</li>
+<li>Interdistance regulation and closed-loop reasoning</li>
+<li>Three-phase measurements and energetic assessment</li>
+<li>Applied telecommunication problem-solving project</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
 <!-- GITHUB STATS AND LANGUAGES SECTION -->
@@ -274,7 +333,7 @@ background-color:rgba(11,15,31,0.4);
 ">
 
 <h3 style="color:#e9edf7;">
-Most Used Languages
+Languages
 </h3>
 
 <img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge"/>
