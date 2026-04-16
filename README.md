@@ -468,7 +468,6 @@ mindset:
 
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-
 <!-- GITHUB STATS AND LANGUAGES SECTION -->
 <div align="center" style="
 display:flex;
