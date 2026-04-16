@@ -1,72 +1,94 @@
 <div align="center">
 
-<!-- HEADER BANNER - Animated wave banner with title and subtitle -->
+<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:070814,25:120f2b,55:1a1f4d,80:2c3e67,100:bfc7d5&text=M.%20Koussay&fontSize=56&fontColor=e9edf7&fontAlignY=38&desc=Aerospace%20Engineering%20•%20Fluid%20Mechanics%20•%20Theoretical%20Physics&descAlignY=58&descAlign=50&animation=fadeIn" />
 
-<!-- SKILLS BADGES - Visual tags for areas of expertise -->
+<!-- ACADEMIC AXES BADGES -->
 <p>
 <img src="https://img.shields.io/badge/Aerospace-0d1020?style=for-the-badge&color=7c87a6"/>
 <img src="https://img.shields.io/badge/Fluid%20Mechanics-0d1020?style=for-the-badge&color=5a6b9a"/>
-<img src="https://img.shields.io/badge/Propulsion-0d1020?style=for-the-badge&color=6778a5"/>
+<img src="https://img.shields.io/badge/Continuum%20Mechanics-0d1020?style=for-the-badge&color=6778a5"/>
+<img src="https://img.shields.io/badge/Aerodynamics-0d1020?style=for-the-badge&color=7b89ad"/>
+<img src="https://img.shields.io/badge/Compressible%20Flows-0d1020?style=for-the-badge&color=8c98b7"/>
 <img src="https://img.shields.io/badge/Heat%20Transfer-0d1020?style=for-the-badge&color=909db8"/>
-<img src="https://img.shields.io/badge/Theoretical%20Physics-0d1020?style=for-the-badge&color=c0c8d8"/>
+<img src="https://img.shields.io/badge/CFD-0d1020?style=for-the-badge&color=9ca8be"/>
+<img src="https://img.shields.io/badge/FEM-0d1020?style=for-the-badge&color=c0c8d8"/>
 </p>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- PROFILE SECTION - Two column layout: About Me + Scientific Identity -->
+<!-- PROFILE + IDENTITY -->
 <table width="90%">
 <tr>
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 <h2 style="color:#e9edf7;">✦ Profile</h2>
 
-<p style="color:#c7ced9; line-height:1.6;">
-Engineering student specialized in aerospace-oriented fluid mechanics,
-developing strong expertise in:
+<p style="color:#c7ced9; line-height:1.7;">
+Engineering student with a strong academic foundation built through intensive preparation in mathematics and physics,
+then extended into advanced mechanical, thermal, fluid, and aerospace-oriented engineering sciences.
 </p>
 
-<ul style="color:#c7ced9;">
-<li>Computational Fluid Dynamics (CFD)</li>
-<li>Propulsion systems</li>
-<li>Thermal transfer</li>
-<li>Aerodynamics</li>
-<li>Experimental validation</li>
-<li>Theoretical physics reasoning</li>
+<p style="color:#c7ced9; line-height:1.7;">
+My profile combines rigorous theoretical training, numerical modeling, physical reasoning,
+and engineering interpretation across:
+</p>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Advanced mathematics and physics foundations</li>
+<li>Continuum mechanics and solid mechanics</li>
+<li>Ideal, viscous, rotational, irrotational and creeping flows</li>
+<li>Compressible, supersonic and hypersonic aerodynamic reasoning</li>
+<li>Thermodynamics, thermotechnics and advanced thermal sciences</li>
+<li>Turbomachinery, propulsion and energetic systems</li>
+<li>Finite Element Method, CFD and numerical simulation</li>
+<li>Structural dynamics, multicorps and nonlinear behavior</li>
+<li>Experimental correlation, metrology and engineering interpretation</li>
 </ul>
 
-<p style="color:#c7ced9;">
-My objective is to understand the physical laws governing engineering systems,
-not just simulate them.
+<p style="color:#c7ced9; line-height:1.7;">
+My objective is not only to use engineering tools, but to understand the physical, mathematical
+and theoretical structure behind aerospace and multiphysics systems.
 </p>
 
 </td>
 
-<td width="50%" align="left">
+<td width="50%" align="left" valign="top">
 
 <h2 style="color:#e9edf7;">✦ Scientific Identity</h2>
 
-<pre style="background:#0b0f1f; color:#c7ced9; padding:14px; border-radius:8px;">
+<pre style="background:#0b0f1f; color:#c7ced9; padding:14px; border-radius:8px; line-height:1.7;">
 
 identity:
   aerospace engineering
   fluid mechanics
-  energetics
-  theoretical physics
+  mechanical sciences
+  thermal sciences
+  theoretical and applied physics
+  numerical engineering sciences
 
 scientific_axes:
-  CFD
-  propulsion
-  heat transfer
+  continuum mechanics
   aerodynamics
-  simulation
-  experimentation
+  compressible flows
+  supersonic / hypersonic logic
+  turbulence
+  boundary layer
+  propulsion
+  thermodynamics
+  heat transfer
+  FEM
+  CFD
+  experimental correlation
+  simulation and modeling
 
 mindset:
   analytical
   research-driven
-  physically grounded
+  mathematically grounded
+  physically consistent
+  theory-oriented
+  simulation-aware
 
 </pre>
 
@@ -74,59 +96,67 @@ mindset:
 </tr>
 </table>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- CORE DOMAINS SECTION - Four specializations with icons -->
+<!-- CORE DOMAINS -->
 <h2 style="color:#e9edf7;">✦ Core Domains</h2>
 
 <table width="90%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="50">
 <br>
 <b style="color:#e9edf7;">Propulsion</b>
 <br>
-<span style="color:#c7ced9;">Thrust • Stability • Performance</span>
+<span style="color:#c7ced9;">Compressible flows • Turbomachinery • Performance</span>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn-icons-png.flaticon.com/512/4149/4149673.png" width="50">
 <br>
-<b style="color:#e9edf7;">CFD</b>
+<b style="color:#e9edf7;">Fluid Mechanics</b>
 <br>
-<span style="color:#c7ced9;">Flow simulation • Modeling</span>
+<span style="color:#c7ced9;">Internal / external flows • Viscous effects • Turbulence</span>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn-icons-png.flaticon.com/512/869/869869.png" width="50">
 <br>
-<b style="color:#e9edf7;">Heat Transfer</b>
+<b style="color:#e9edf7;">Thermal Sciences</b>
 <br>
-<span style="color:#c7ced9;">Thermal systems • Coupling</span>
+<span style="color:#c7ced9;">Thermodynamics • Heat transfer • Thermotechnique</span>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn-icons-png.flaticon.com/512/2949/2949043.png" width="50">
 <br>
-<b style="color:#e9edf7;">Theoretical Physics</b>
+<b style="color:#e9edf7;">Structures</b>
 <br>
-<span style="color:#c7ced9;">Mathematical modeling</span>
+<span style="color:#c7ced9;">Elasticity • Dynamics • Nonlinear behavior</span>
+</td>
+
+<td align="center" width="20%">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50">
+<br>
+<b style="color:#e9edf7;">Numerical Methods</b>
+<br>
+<span style="color:#c7ced9;">FEM • CFD • Simulation • Modeling</span>
 </td>
 
 </tr>
 </table>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- TECHNICAL STACK - Software and tools badges -->
+<!-- TECH STACK -->
 <h2 style="color:#e9edf7;">✦ Technical Stack</h2>
 
 <p>
-<img src="https://img.shields.io/badge/STAR--CCM+-0b0f1f?style=for-the-badge&color=9ca8be"/>
+<img src="https://img.shields.io/badge/CFD-0b0f1f?style=for-the-badge&color=9ca8be"/>
+<img src="https://img.shields.io/badge/FEM-0b0f1f?style=for-the-badge&color=9ca8be"/>
 <img src="https://img.shields.io/badge/MATLAB-0b0f1f?style=for-the-badge&color=9ca8be"/>
+<img src="https://img.shields.io/badge/Simulink-0b0f1f?style=for-the-badge&color=9ca8be"/>
 <img src="https://img.shields.io/badge/Python-0b0f1f?style=for-the-badge&color=9ca8be"/>
 <img src="https://img.shields.io/badge/NumPy-0b0f1f?style=for-the-badge&color=9ca8be"/>
 <img src="https://img.shields.io/badge/C-0b0f1f?style=for-the-badge&color=6778a5"/>
@@ -136,50 +166,44 @@ mindset:
 <img src="https://img.shields.io/badge/Fusion360-0b0f1f?style=for-the-badge&color=6778a5"/>
 </p>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- RESEARCH ATMOSPHERE - Three columns of research areas -->
-<h2 style="color:#e9edf7;">✦ Research Atmosphere</h2>
+<!-- MATHEMATICAL & PHYSICAL FOUNDATIONS -->
+<h2 style="color:#e9edf7;">✦ Mathematical & Physical Foundations</h2>
 
 <table width="90%">
 <tr>
 
-<td width="33%">
+<td width="50%" valign="top" align="left">
 
-<b style="color:#e9edf7;">Aerodynamics</b>
+<h3 style="color:#e9edf7;">Mathematics Background</h3>
 
-<ul style="color:#c7ced9;">
-<li>External flows</li>
-<li>Profiles and bodies</li>
-<li>Drag analysis</li>
-<li>Simulation vs experiment</li>
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Advanced calculus and applied analysis</li>
+<li>Linear algebra and vector spaces</li>
+<li>Differential equations</li>
+<li>Numerical analysis</li>
+<li>Optimization</li>
+<li>Probability and statistics</li>
+<li>Scientific modeling and approximation methods</li>
+<li>Mathematical rigor inherited from preparatory-class training</li>
 </ul>
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top" align="left">
 
-<b style="color:#e9edf7;">Propulsion</b>
+<h3 style="color:#e9edf7;">Physics Background</h3>
 
-<ul style="color:#c7ced9;">
-<li>Rocket systems</li>
-<li>Sizing logic</li>
-<li>Ballistic stability</li>
-<li>Performance analysis</li>
-</ul>
-
-</td>
-
-<td width="33%">
-
-<b style="color:#e9edf7;">Thermal Sciences</b>
-
-<ul style="color:#c7ced9;">
-<li>Heat exchangers</li>
-<li>Thermal coefficients</li>
-<li>Inverse methods</li>
-<li>Prediction models</li>
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Classical mechanics and system dynamics</li>
+<li>Continuum descriptions of matter</li>
+<li>Fluid and thermal physics</li>
+<li>Electrotechnics and instrumentation</li>
+<li>Acoustics and vibroacoustics</li>
+<li>Energy conversion principles</li>
+<li>Aerodynamic and compressible-flow reasoning</li>
+<li>Theoretical physics mindset applied to engineering systems</li>
 </ul>
 
 </td>
@@ -187,10 +211,83 @@ mindset:
 </tr>
 </table>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
-<!-- ACADEMIC PORTFOLIO -->
+<!-- RESEARCH ATMOSPHERE -->
+<h2 style="color:#e9edf7;">✦ Research Atmosphere</h2>
+
+<table width="90%">
+<tr>
+
+<td width="33%" valign="top">
+
+<b style="color:#e9edf7;">Fluid & Aero Sciences</b>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Ideal fluid mechanics</li>
+<li>Viscous Newtonian flows</li>
+<li>Rotational / irrotational flows</li>
+<li>Creeping and free-surface flows</li>
+<li>Internal flows</li>
+<li>Compressible flows</li>
+<li>Supersonic / hypersonic logic</li>
+<li>Boundary layer physics</li>
+<li>Turbulence physics</li>
+<li>Turbulence modeling</li>
+<li>Transport aerodynamics</li>
+<li>Aeroacoustics</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<b style="color:#e9edf7;">Thermal & Energy Sciences</b>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Thermodynamics</li>
+<li>Technical thermodynamics</li>
+<li>Heat transfer</li>
+<li>Advanced thermal sciences</li>
+<li>Heat exchangers</li>
+<li>Turbomachinery</li>
+<li>Propulsion systems</li>
+<li>Combustion and fuels logic</li>
+<li>0D energetic-system modeling</li>
+<li>Building thermal simulation</li>
+<li>Renewable energies</li>
+<li>Energy-system regulation</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<b style="color:#e9edf7;">Structures & Simulation</b>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Continuum mechanics</li>
+<li>Material strength</li>
+<li>Elasticity</li>
+<li>Continuous systems dynamics</li>
+<li>Discrete systems dynamics</li>
+<li>Multibody systems</li>
+<li>Structural dynamics</li>
+<li>Finite Element Method</li>
+<li>Numerical dynamics simulation</li>
+<li>Composite-structure simulation</li>
+<li>Nonlinear structural behavior</li>
+<li>Extreme-load structural modeling</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<hr style="border:1px solid #2c3e67; width:90%;">
+
+<!-- COMPLETE ACADEMIC PORTFOLIO -->
 <h2 style="color:#e9edf7;">✦ Academic Portfolio</h2>
 
 <table width="90%">
@@ -198,65 +295,79 @@ mindset:
 
 <td width="33%" valign="top">
 
-<h3 style="color:#e9edf7;">Research Repositories</h3>
+<h3 style="color:#e9edf7;">Mechanical & Continuum Sciences</h3>
 
-<ul style="color:#c7ced9;">
-<li><a href="https://github.com/Koussay17/koussay-engineering-portfolio" style="color:#c7ced9;">Engineering Portfolio</a></li>
-<li><a href="https://github.com/Koussay17?tab=repositories" style="color:#c7ced9;">Fluid Mechanics & Aerodynamics Works</a></li>
-<li><a href="https://github.com/Koussay17?tab=repositories" style="color:#c7ced9;">Scientific Computing Projects</a></li>
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Continuum mechanics</li>
+<li>Material strength</li>
+<li>Mechanical systems</li>
+<li>Elasticity</li>
+<li>Continuous systems dynamics</li>
+<li>Discrete systems dynamics</li>
+<li>Multibody-system analysis</li>
+<li>Structural dynamics</li>
+<li>Simulation in dynamics</li>
+<li>Multi-scale modeling in mechanics</li>
+<li>Composite-structure behavior</li>
+<li>Nonlinear structural simulation</li>
+<li>Extreme-load assemblies and structures</li>
+<li>Fatigue, rupture and durability of materials</li>
 </ul>
-
-<p style="color:#c7ced9; line-height:1.6;">
-A structured collection of academic reports, engineering studies,
-and numerical notebooks in aerospace, fluid mechanics, and control.
-</p>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3 style="color:#e9edf7;">Scientific Works</h3>
+<h3 style="color:#e9edf7;">Fluid, Thermal & Aerospace Sciences</h3>
 
-<ul style="color:#c7ced9;">
-<li>High-Lift Devices / Flaps</li>
-<li>Cylinder Wake – Aerodynamic Coefficients</li>
-<li>Nozzle Study</li>
-<li>Transition to Turbulence</li>
-<li>Heat Exchangers Analysis</li>
-<li>Automatic Control with Simulink</li>
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Ideal fluid mechanics</li>
+<li>Viscous Newtonian fluid mechanics</li>
+<li>Rotational, creeping and free-surface flows</li>
+<li>Compressible flows and aerodynamics</li>
+<li>Internal flows</li>
+<li>Boundary layer</li>
+<li>Complex-rheology fluids</li>
+<li>CFD and numerical fluid mechanics</li>
+<li>Turbulence modeling</li>
+<li>Turbulence physics</li>
+<li>Thermodynamics</li>
+<li>Technical thermodynamics</li>
+<li>Heat transfer and advanced thermal sciences</li>
+<li>Turbomachinery</li>
+<li>Aeronautical propulsion</li>
+<li>Aerodynamics of transport systems</li>
+<li>Aeroacoustics</li>
 </ul>
-
-<p style="color:#c7ced9; line-height:1.6;">
-Selected works combining physical modeling, experimental interpretation,
-and engineering reasoning across multiple scientific domains.
-</p>
 
 </td>
 
 <td width="33%" valign="top">
 
-<h3 style="color:#e9edf7;">Laboratory Work</h3>
+<h3 style="color:#e9edf7;">Engineering Design, Systems & Applied Fields</h3>
 
-<ul style="color:#c7ced9;">
-<li>Pressure losses & flow measurement</li>
-<li>Regular friction losses & turbulence transition</li>
-<li>Crossflow heat transfer</li>
-<li>Three-phase energy assessment</li>
-<li>Interdistance regulation</li>
-<li>Telecommunication investigation project</li>
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Finite Element Method</li>
+<li>CFD</li>
+<li>Numerical engineering design</li>
+<li>CAD and shape-oriented design</li>
+<li>Correlation between tests and calculations</li>
+<li>Industrial acoustics and vibroacoustics</li>
+<li>Mechanical manufacturing processes</li>
+<li>Virtual reality and prototyping</li>
+<li>Eco-design</li>
+<li>Product design</li>
+<li>Building-energy simulation, regulation and metrology</li>
+<li>Building thermal sciences and renewable energies</li>
+<li>Transport metrology, supervision and regulation</li>
+<li>Sustainable mobility systems</li>
 </ul>
-
-<p style="color:#c7ced9; line-height:1.6;">
-Hands-on laboratory projects involving data interpretation,
-validation, thermal systems, fluid flows, control, and instrumentation.
-</p>
 
 </td>
 
 </tr>
 </table>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
 
 <!-- FEATURED PROJECTS -->
@@ -267,28 +378,34 @@ validation, thermal systems, fluid flows, control, and instrumentation.
 
 <td width="50%" valign="top" align="left">
 
-<h3 style="color:#e9edf7;">Aerospace & Fluid Mechanics</h3>
+<h3 style="color:#e9edf7;">Aerospace, Aerodynamics & Fluid Mechanics</h3>
 
-<ul style="color:#c7ced9;">
+<ul style="color:#c7ced9; line-height:1.8;">
 <li>High-lift devices and flaps in aviation</li>
-<li>Cylinder wake and aerodynamic drag coefficients</li>
-<li>Nozzle flow and compressible propulsion analysis</li>
+<li>Cylinder wake and aerodynamic coefficients</li>
+<li>Nozzle flow and propulsion-oriented analysis</li>
 <li>Transition from laminar to turbulent regime</li>
-<li>Singular and regular pressure loss characterization</li>
+<li>Pressure-loss characterization in internal flows</li>
+<li>Heat-transfer characterization in crossflow exchangers</li>
+<li>Compressible-flow and aerodynamic reasoning</li>
+<li>Boundary-layer and turbulence-oriented studies</li>
 </ul>
 
 </td>
 
 <td width="50%" valign="top" align="left">
 
-<h3 style="color:#e9edf7;">Thermal, Control & Systems</h3>
+<h3 style="color:#e9edf7;">Systems, Control, Energy & Experimental Work</h3>
 
-<ul style="color:#c7ced9;">
-<li>Crossflow heat exchangers and heat transfer coefficients</li>
+<ul style="color:#c7ced9; line-height:1.8;">
 <li>Automatic control with MATLAB / Simulink / Home I/O</li>
 <li>Interdistance regulation and closed-loop reasoning</li>
 <li>Three-phase measurements and energetic assessment</li>
-<li>Applied telecommunication problem-solving project</li>
+<li>Telecommunication engineering investigation project</li>
+<li>Experimental validation and engineering interpretation</li>
+<li>Measurement-driven reasoning in fluids and thermal systems</li>
+<li>Multiphysics-oriented numerical thinking</li>
+<li>Physics-grounded engineering problem solving</li>
 </ul>
 
 </td>
@@ -296,8 +413,61 @@ validation, thermal systems, fluid flows, control, and instrumentation.
 </tr>
 </table>
 
-<!-- HORIZONTAL DIVIDER -->
 <hr style="border:1px solid #2c3e67; width:90%;">
+
+<!-- FUTURE OBSERVATORY -->
+<h2 style="color:#e9edf7;">✦ Future Observatory</h2>
+
+<table width="90%">
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 style="color:#e9edf7;">Scientific Direction</h3>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Advanced aerospace fluid mechanics</li>
+<li>Supersonic and hypersonic aerodynamics</li>
+<li>Propulsion-oriented flow physics</li>
+<li>Multiphysics numerical simulation</li>
+<li>Theoretical physical modeling</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 style="color:#e9edf7;">Engineering Development</h3>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Higher-level CFD and FEM work</li>
+<li>Experimental / numerical correlation</li>
+<li>Complex fluids and nonlinear systems</li>
+<li>Structural and energetic modeling</li>
+<li>Aero-thermal system analysis</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 style="color:#e9edf7;">Long-Term Focus</h3>
+
+<ul style="color:#c7ced9; line-height:1.8;">
+<li>Aerospace theory and simulation</li>
+<li>Research-level fluid mechanics</li>
+<li>Applied mathematical modeling</li>
+<li>High-level engineering analysis</li>
+<li>Physics-based design logic</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<hr style="border:1px solid #2c3e67; width:90%;">
+
 
 <!-- GITHUB STATS AND LANGUAGES SECTION -->
 <div align="center" style="
