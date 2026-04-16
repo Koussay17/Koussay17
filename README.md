@@ -504,7 +504,7 @@ GitHub Stats
 </h3>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent">
+src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=e9edf7&text_color=b7bfcc&icon_color=8f98a8&border_color=4b5671&ring_color=7f8796&bg_color=00000000">
 
 </div>
 
