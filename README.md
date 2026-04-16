@@ -293,6 +293,64 @@ string-inspired gravitational dynamics, and physically interpretable mathematica
 
 </div>
 
+<table width="100%" style="margin-top:10px;">
+<tr>
+<td width="33%" style="padding:6px;">
+<div style="
+padding:10px;
+border:1px solid #3f4656;
+border-radius:12px;
+background-color:rgba(7,8,20,0.46);
+">
+<img
+src="./assets/cosmology-cover.png"
+alt="Cosmology paper cover"
+width="100%"
+style="border-radius:8px; border:1px solid #2d3340;">
+<p style="color:#9fa9bc; font-size:12px; margin-top:8px; line-height:1.6;">
+Paper cover
+</p>
+</div>
+</td>
+
+<td width="33%" style="padding:6px;">
+<div style="
+padding:10px;
+border:1px solid #3f4656;
+border-radius:12px;
+background-color:rgba(7,8,20,0.46);
+">
+<img
+src="./assets/cosmology-equation.png"
+alt="Cosmology equations"
+width="100%"
+style="border-radius:8px; border:1px solid #2d3340;">
+<p style="color:#9fa9bc; font-size:12px; margin-top:8px; line-height:1.6;">
+Core theoretical framework
+</p>
+</div>
+</td>
+
+<td width="33%" style="padding:6px;">
+<div style="
+padding:10px;
+border:1px solid #3f4656;
+border-radius:12px;
+background-color:rgba(7,8,20,0.46);
+">
+<img
+src="./assets/cosmology-results.png"
+alt="Cosmology numerical results"
+width="100%"
+style="border-radius:8px; border:1px solid #2d3340;">
+<p style="color:#9fa9bc; font-size:12px; margin-top:8px; line-height:1.6;">
+Numerical results
+</p>
+</div>
+</td>
+</tr>
+</table>
+
 <!-- MATHEMATICAL & PHYSICAL FOUNDATIONS -->
 <h2 style="color:#e9edf7;">✦ Mathematical & Physical Foundations</h2>
 
