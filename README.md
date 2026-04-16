@@ -168,6 +168,131 @@ mindset:
 
 <hr style="border:1px solid #2c3e67; width:90%;">
 
+<hr style="border:1px solid #2c3e67; width:90%;">
+
+<!-- FEATURED THEORETICAL PHYSICS PAPER -->
+<h2 style="color:#e9edf7;">✦ Featured Theoretical Physics Work</h2>
+
+<div align="center" style="
+width:90%;
+margin:auto;
+padding:22px;
+border:1px solid #4b5671;
+border-radius:14px;
+background:linear-gradient(180deg, rgba(11,15,31,0.72) 0%, rgba(18,15,43,0.68) 100%);
+box-shadow:0 0 24px rgba(0,0,0,0.28);
+">
+
+<h3 style="color:#f1f3f8; font-size:26px; margin-bottom:8px;">
+Cosmological Bounce in String Quantum Gravity
+</h3>
+
+<p style="color:#9fa9bc; font-size:15px; letter-spacing:0.4px; margin-top:0;">
+Research-oriented theoretical study • Cosmology • General Relativity • String Theory • α′ Corrections
+</p>
+
+<p style="
+color:#c7ced9;
+line-height:1.85;
+font-size:15px;
+max-width:1000px;
+margin:18px auto 10px auto;
+text-align:left;
+">
+This work investigates the possibility of replacing the initial Big Bang singularity
+with a <b style="color:#e9edf7;">non-singular cosmological bounce</b> in the framework of
+<b style="color:#e9edf7;">string quantum gravity</b>.
+It develops the theoretical path from relativistic foundations to string-effective cosmological equations,
+including <b style="color:#e9edf7;">T-duality</b>, <b style="color:#e9edf7;">Double Field Theory</b>,
+<b style="color:#e9edf7;">α′ corrections</b>, analytic interpretation, and numerical illustration of the bounce dynamics.
+</p>
+
+<table width="100%" style="margin-top:20px;">
+<tr>
+
+<td width="52%" valign="top" align="left" style="padding:10px 18px;">
+
+<h3 style="color:#e9edf7; margin-bottom:10px;">✦ Why this work matters</h3>
+
+<ul style="color:#c7ced9; line-height:1.9;">
+<li>Moves beyond standard coursework into <b style="color:#e9edf7;">research-level theoretical physics</b></li>
+<li>Connects <b style="color:#e9edf7;">general relativity</b>, <b style="color:#e9edf7;">string theory</b> and <b style="color:#e9edf7;">cosmology</b></li>
+<li>Studies singularity resolution through <b style="color:#e9edf7;">quantum-gravity-inspired corrections</b></li>
+<li>Combines <b style="color:#e9edf7;">formal derivation</b>, <b style="color:#e9edf7;">analytic reasoning</b> and <b style="color:#e9edf7;">numerical results</b></li>
+<li>Reflects a strong orientation toward <b style="color:#e9edf7;">theoretical and mathematical physics</b></li>
+</ul>
+
+<h3 style="color:#e9edf7; margin:18px 0 10px 0;">✦ Main theoretical ingredients</h3>
+
+<p style="color:#c7ced9; line-height:1.9;">
+Relativity • Einstein equations • Variational formalism • Bosonic string theory •
+T-duality • Double Field Theory • Friedmann cosmology • Effective string actions •
+Dilaton dynamics • Non-singular bounce solutions • Numerical integration
+</p>
+
+<div style="margin-top:18px;">
+<a href="./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf">
+<img src="https://img.shields.io/badge/Read%20the%20Paper-0d1020?style=for-the-badge&color=909db8">
+</a>
+</div>
+
+</td>
+
+<td width="48%" valign="top" align="center" style="padding:10px 18px;">
+
+<div style="
+padding:14px;
+border:1px solid #3f4656;
+border-radius:12px;
+background-color:rgba(7,8,20,0.46);
+">
+
+<img
+src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=80"
+alt="Cosmology visual"
+width="100%"
+style="border-radius:10px; border:1px solid #2d3340;">
+
+<p style="color:#9fa9bc; font-size:13px; margin-top:10px; line-height:1.7;">
+Suggested visual placeholder for the theoretical physics section.
+You can later replace this image with:
+<br>
+• a page preview of the paper
+<br>
+• your own cosmological plot
+<br>
+• a diagram of the bounce scenario
+<br>
+• a screenshot of numerical results
+</p>
+
+</div>
+
+<div style="
+margin-top:18px;
+padding:14px;
+border:1px solid #3f4656;
+border-radius:12px;
+background-color:rgba(7,8,20,0.46);
+text-align:left;
+">
+
+<h4 style="color:#e9edf7; margin-top:0;">✦ Research focus</h4>
+
+<p style="color:#c7ced9; line-height:1.8; margin-bottom:0;">
+Non-singular early-universe cosmology, high-curvature corrections,
+string-inspired gravitational dynamics, and physically interpretable mathematical modeling.
+</p>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 <!-- MATHEMATICAL & PHYSICAL FOUNDATIONS -->
 <h2 style="color:#e9edf7;">✦ Mathematical & Physical Foundations</h2>
 
