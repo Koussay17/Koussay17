@@ -415,6 +415,21 @@ mindset:
 
 <hr style="border:1px solid #2c3e67; width:90%;">
 
+<h2 style="color:#e9edf7;">✦ Engineering Portfolio</h2>
+
+<p style="color:#c7ced9; line-height:1.7; width:90%; margin:auto;">
+A structured academic portfolio covering aerospace flow physics, advanced fluid and thermal sciences,
+continuum mechanics, dynamics, control, scientific computing, and physics-based engineering analysis.
+</p>
+
+<p>
+<a href="https://github.com/Koussay17/M.Koussay-engineering-portfolio">
+<img src="https://img.shields.io/badge/Open%20Portfolio-0d1020?style=for-the-badge&color=909db8">
+</a>
+</p>
+
+<hr style="border:1px solid #2c3e67; width:90%;">
+
 <!-- FUTURE OBSERVATORY -->
 <h2 style="color:#e9edf7;">✦ Future Observatory</h2>
 
