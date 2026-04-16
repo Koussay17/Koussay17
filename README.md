@@ -303,7 +303,7 @@ border-radius:12px;
 background-color:rgba(7,8,20,0.46);
 ">
 <img
-src="./assets/cosmology-cover.png"
+src="./assets/cosmology-cover.png.png"
 alt="Cosmology paper cover"
 width="100%"
 style="border-radius:8px; border:1px solid #2d3340;">
@@ -321,7 +321,7 @@ border-radius:12px;
 background-color:rgba(7,8,20,0.46);
 ">
 <img
-src="./assets/cosmology-equation.png"
+src="./assets/cosmology-equation.png.png"
 alt="Cosmology equations"
 width="100%"
 style="border-radius:8px; border:1px solid #2d3340;">
@@ -339,7 +339,7 @@ border-radius:12px;
 background-color:rgba(7,8,20,0.46);
 ">
 <img
-src="./assets/cosmology-results.png"
+src="./assets/cosmology-results.png.png"
 alt="Cosmology numerical results"
 width="100%"
 style="border-radius:8px; border:1px solid #2d3340;">
