@@ -1,674 +1,278 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:070814,25:120f2b,55:1a1f4d,80:2c3e67,100:bfc7d5&text=M.%20Koussay&fontSize=56&fontColor=e9edf7&fontAlignY=38&desc=Aerospace%20Engineering%20•%20Fluid%20Mechanics%20•%20Theoretical%20Physics&descAlignY=58&descAlign=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3b73,50:2f7d4f,100:b3452c&height=190&section=header&text=Koussay%20Mansouri&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=theoretical%20physics%20·%20continuum%20mechanics%20·%20scientific%20computing&descAlignY=54&descSize=17" width="100%"/>
 
-<!-- ACADEMIC AXES BADGES -->
-<p>
-<img src="https://img.shields.io/badge/Aerospace-0d1020?style=for-the-badge&color=7c87a6"/>
-<img src="https://img.shields.io/badge/Fluid%20Mechanics-0d1020?style=for-the-badge&color=5a6b9a"/>
-<img src="https://img.shields.io/badge/Continuum%20Mechanics-0d1020?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/Aerodynamics-0d1020?style=for-the-badge&color=7b89ad"/>
-<img src="https://img.shields.io/badge/Compressible%20Flows-0d1020?style=for-the-badge&color=8c98b7"/>
-<img src="https://img.shields.io/badge/Heat%20Transfer-0d1020?style=for-the-badge&color=909db8"/>
-<img src="https://img.shields.io/badge/CFD-0d1020?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/FEM-0d1020?style=for-the-badge&color=c0c8d8"/>
-</p>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- PROFILE + IDENTITY -->
-<table width="90%">
-<tr>
-<td width="50%" align="left" valign="top">
-
-<h2 style="color:#e9edf7;">✦ Profile</h2>
-
-<p style="color:#c7ced9; line-height:1.7;">
-Engineering student with a strong academic foundation built through intensive preparation in mathematics and physics,
-then extended into advanced mechanical, thermal, fluid, and aerospace-oriented engineering sciences.
-</p>
-
-<p style="color:#c7ced9; line-height:1.7;">
-My profile combines rigorous theoretical training, numerical modeling, physical reasoning,
-and engineering interpretation across:
-</p>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Advanced mathematics and physics foundations</li>
-<li>Continuum mechanics and solid mechanics</li>
-<li>Ideal, viscous, rotational, irrotational and creeping flows</li>
-<li>Compressible, supersonic and hypersonic aerodynamic reasoning</li>
-<li>Thermodynamics, thermotechnics and advanced thermal sciences</li>
-<li>Turbomachinery, propulsion and energetic systems</li>
-<li>Finite Element Method, CFD and numerical simulation</li>
-<li>Structural dynamics, multicorps and nonlinear behavior</li>
-<li>Experimental correlation, metrology and engineering interpretation</li>
-</ul>
-
-<p style="color:#c7ced9; line-height:1.7;">
-My objective is not only to use engineering tools, but to understand the physical, mathematical
-and theoretical structure behind aerospace and multiphysics systems.
-</p>
-
-</td>
-
-<td width="50%" align="left" valign="top">
-
-<h2 style="color:#e9edf7;">✦ Scientific Identity</h2>
-
-<pre style="background:#0b0f1f; color:#c7ced9; padding:14px; border-radius:8px; line-height:1.7;">
-
-identity:
-  aerospace engineering
-  fluid mechanics
-  mechanical sciences
-  thermal sciences
-  theoretical and applied physics
-  numerical engineering sciences
-
-scientific_axes:
-  continuum mechanics
-  aerodynamics
-  compressible flows
-  supersonic / hypersonic logic
-  turbulence
-  boundary layer
-  propulsion
-  thermodynamics
-  heat transfer
-  FEM
-  CFD
-  experimental correlation
-  simulation and modeling
-
-mindset:
-  analytical
-  research-driven
-  mathematically grounded
-  physically consistent
-  theory-oriented
-  simulation-aware
-
-</pre>
-
-</td>
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- CORE DOMAINS -->
-<h2 style="color:#e9edf7;">✦ Core Domains</h2>
-
-<table width="90%">
-<tr>
-
-<td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/3212/3212608.png" width="50">
-<br>
-<b style="color:#e9edf7;">Propulsion</b>
-<br>
-<span style="color:#c7ced9;">Compressible flows • Turbomachinery • Performance</span>
-</td>
-
-<td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149673.png" width="50">
-<br>
-<b style="color:#e9edf7;">Fluid Mechanics</b>
-<br>
-<span style="color:#c7ced9;">Internal / external flows • Viscous effects • Turbulence</span>
-</td>
-
-<td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/869/869869.png" width="50">
-<br>
-<b style="color:#e9edf7;">Thermal Sciences</b>
-<br>
-<span style="color:#c7ced9;">Thermodynamics • Heat transfer • Thermotechnique</span>
-</td>
-
-<td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/2949/2949043.png" width="50">
-<br>
-<b style="color:#e9edf7;">Structures</b>
-<br>
-<span style="color:#c7ced9;">Elasticity • Dynamics • Nonlinear behavior</span>
-</td>
-
-<td align="center" width="20%">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50">
-<br>
-<b style="color:#e9edf7;">Numerical Methods</b>
-<br>
-<span style="color:#c7ced9;">FEM • CFD • Simulation • Modeling</span>
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- TECH STACK -->
-<h2 style="color:#e9edf7;">✦ Technical Stack</h2>
-
-<p>
-<img src="https://img.shields.io/badge/CFD-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/FEM-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/MATLAB-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/Simulink-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/Python-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/NumPy-0b0f1f?style=for-the-badge&color=9ca8be"/>
-<img src="https://img.shields.io/badge/C-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/C++-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/SQL-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/CATIA-0b0f1f?style=for-the-badge&color=6778a5"/>
-<img src="https://img.shields.io/badge/Fusion360-0b0f1f?style=for-the-badge&color=6778a5"/>
-</p>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- FEATURED THEORETICAL PHYSICS PAPER -->
-<h2 style="color:#e9edf7;">✦ Featured Theoretical Physics Work</h2>
-
-<div align="center" style="
-width:90%;
-margin:auto;
-padding:22px;
-border:1px solid #4b5671;
-border-radius:14px;
-background:linear-gradient(180deg, rgba(11,15,31,0.72) 0%, rgba(18,15,43,0.68) 100%);
-box-shadow:0 0 24px rgba(0,0,0,0.28);
-">
-
-<h3 style="color:#f1f3f8; font-size:26px; margin-bottom:8px;">
-Cosmological Bounce in String Quantum Gravity
-</h3>
-
-<p style="color:#9fa9bc; font-size:15px; letter-spacing:0.4px; margin-top:0;">
-Research-oriented theoretical study • Cosmology • General Relativity • String Theory • α′ Corrections
-</p>
-
-<p style="
-color:#c7ced9;
-line-height:1.85;
-font-size:15px;
-max-width:1000px;
-margin:18px auto 10px auto;
-text-align:left;
-">
-This work investigates the possibility of replacing the initial Big Bang singularity
-with a <b style="color:#e9edf7;">non-singular cosmological bounce</b> in the framework of
-<b style="color:#e9edf7;">string quantum gravity</b>.
-It develops the theoretical path from relativistic foundations to string-effective cosmological equations,
-including <b style="color:#e9edf7;">T-duality</b>, <b style="color:#e9edf7;">Double Field Theory</b>,
-<b style="color:#e9edf7;">α′ corrections</b>, analytic interpretation, and numerical illustration of the bounce dynamics.
-</p>
-
-<table width="100%" style="margin-top:20px;">
-<tr>
-
-<td width="52%" valign="top" align="left" style="padding:10px 18px;">
-
-<h3 style="color:#e9edf7; margin-bottom:10px;">✦ Why this work matters</h3>
-
-<ul style="color:#c7ced9; line-height:1.9;">
-<li>Moves beyond standard coursework into <b style="color:#e9edf7;">research-level theoretical physics</b></li>
-<li>Connects <b style="color:#e9edf7;">general relativity</b>, <b style="color:#e9edf7;">string theory</b> and <b style="color:#e9edf7;">cosmology</b></li>
-<li>Studies singularity resolution through <b style="color:#e9edf7;">quantum-gravity-inspired corrections</b></li>
-<li>Combines <b style="color:#e9edf7;">formal derivation</b>, <b style="color:#e9edf7;">analytic reasoning</b> and <b style="color:#e9edf7;">numerical results</b></li>
-<li>Reflects a strong orientation toward <b style="color:#e9edf7;">theoretical and mathematical physics</b></li>
-</ul>
-
-<h3 style="color:#e9edf7; margin:18px 0 10px 0;">✦ Main theoretical ingredients</h3>
-
-<p style="color:#c7ced9; line-height:1.9;">
-Relativity • Einstein equations • Variational formalism • Bosonic string theory •
-T-duality • Double Field Theory • Friedmann cosmology • Effective string actions •
-Dilaton dynamics • Non-singular bounce solutions • Numerical integration
-</p>
-
-<div style="margin-top:18px;">
-<a href="./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf">
-<img src="https://img.shields.io/badge/Read%20the%20Paper-0d1020?style=for-the-badge&color=909db8">
-</a>
-</div>
-
-</td>
-
-<td width="48%" valign="top" align="center" style="padding:10px 18px;">
-
-<div style="
-padding:14px;
-border:1px solid #3f4656;
-border-radius:12px;
-background-color:rgba(7,8,20,0.46);
-">
-
-<img
-src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1200&q=80"
-alt="Cosmology visual"
-width="100%"
-style="border-radius:10px; border:1px solid #2d3340;">
-
-<p style="color:#9fa9bc; font-size:13px; margin-top:10px; line-height:1.7;">
-Suggested visual placeholder for the theoretical physics section.
-You can later replace this image with:
-<br>
-• a page preview of the paper
-<br>
-• your own cosmological plot
-<br>
-• a diagram of the bounce scenario
-<br>
-• a screenshot of numerical results
-</p>
-
-</div>
-
-<div style="
-margin-top:18px;
-padding:14px;
-border:1px solid #3f4656;
-border-radius:12px;
-background-color:rgba(7,8,20,0.46);
-text-align:left;
-">
-
-<h4 style="color:#e9edf7; margin-top:0;">✦ Research focus</h4>
-
-<p style="color:#c7ced9; line-height:1.8; margin-bottom:0;">
-Non-singular early-universe cosmology, high-curvature corrections,
-string-inspired gravitational dynamics, and physically interpretable mathematical modeling.
-</p>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- MATHEMATICAL & PHYSICAL FOUNDATIONS -->
-<h2 style="color:#e9edf7;">✦ Mathematical & Physical Foundations</h2>
-
-<table width="90%">
-<tr>
-
-<td width="50%" valign="top" align="left">
-
-<h3 style="color:#e9edf7;">Mathematics Background</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Advanced calculus and applied analysis</li>
-<li>Linear algebra and vector spaces</li>
-<li>Differential equations</li>
-<li>Numerical analysis</li>
-<li>Optimization</li>
-<li>Probability and statistics</li>
-<li>Scientific modeling and approximation methods</li>
-<li>Mathematical rigor inherited from preparatory-class training</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top" align="left">
-
-<h3 style="color:#e9edf7;">Physics Background</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Classical mechanics and system dynamics</li>
-<li>Continuum descriptions of matter</li>
-<li>Fluid and thermal physics</li>
-<li>Electrotechnics and instrumentation</li>
-<li>Acoustics and vibroacoustics</li>
-<li>Energy conversion principles</li>
-<li>Aerodynamic and compressible-flow reasoning</li>
-<li>Theoretical physics mindset applied to engineering systems</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- RESEARCH ATMOSPHERE -->
-<h2 style="color:#e9edf7;">✦ Research Atmosphere</h2>
-
-<table width="90%">
-<tr>
-
-<td width="33%" valign="top">
-
-<b style="color:#e9edf7;">Fluid & Aero Sciences</b>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Ideal fluid mechanics</li>
-<li>Viscous Newtonian flows</li>
-<li>Rotational / irrotational flows</li>
-<li>Creeping and free-surface flows</li>
-<li>Internal flows</li>
-<li>Compressible flows</li>
-<li>Supersonic / hypersonic logic</li>
-<li>Boundary layer physics</li>
-<li>Turbulence physics</li>
-<li>Turbulence modeling</li>
-<li>Transport aerodynamics</li>
-<li>Aeroacoustics</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<b style="color:#e9edf7;">Thermal & Energy Sciences</b>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Thermodynamics</li>
-<li>Technical thermodynamics</li>
-<li>Heat transfer</li>
-<li>Advanced thermal sciences</li>
-<li>Heat exchangers</li>
-<li>Turbomachinery</li>
-<li>Propulsion systems</li>
-<li>Combustion and fuels logic</li>
-<li>0D energetic-system modeling</li>
-<li>Building thermal simulation</li>
-<li>Renewable energies</li>
-<li>Energy-system regulation</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<b style="color:#e9edf7;">Structures & Simulation</b>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Continuum mechanics</li>
-<li>Material strength</li>
-<li>Elasticity</li>
-<li>Continuous systems dynamics</li>
-<li>Discrete systems dynamics</li>
-<li>Multibody systems</li>
-<li>Structural dynamics</li>
-<li>Finite Element Method</li>
-<li>Numerical dynamics simulation</li>
-<li>Composite-structure simulation</li>
-<li>Nonlinear structural behavior</li>
-<li>Extreme-load structural modeling</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- COMPLETE ACADEMIC PORTFOLIO -->
-<h2 style="color:#e9edf7;">✦ Academic Portfolio</h2>
-
-<table width="90%">
-<tr>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Mechanical & Continuum Sciences</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Continuum mechanics</li>
-<li>Material strength</li>
-<li>Mechanical systems</li>
-<li>Elasticity</li>
-<li>Continuous systems dynamics</li>
-<li>Discrete systems dynamics</li>
-<li>Multibody-system analysis</li>
-<li>Structural dynamics</li>
-<li>Simulation in dynamics</li>
-<li>Multi-scale modeling in mechanics</li>
-<li>Composite-structure behavior</li>
-<li>Nonlinear structural simulation</li>
-<li>Extreme-load assemblies and structures</li>
-<li>Fatigue, rupture and durability of materials</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Fluid, Thermal & Aerospace Sciences</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Ideal fluid mechanics</li>
-<li>Viscous Newtonian fluid mechanics</li>
-<li>Rotational, creeping and free-surface flows</li>
-<li>Compressible flows and aerodynamics</li>
-<li>Internal flows</li>
-<li>Boundary layer</li>
-<li>Complex-rheology fluids</li>
-<li>CFD and numerical fluid mechanics</li>
-<li>Turbulence modeling</li>
-<li>Turbulence physics</li>
-<li>Thermodynamics</li>
-<li>Technical thermodynamics</li>
-<li>Heat transfer and advanced thermal sciences</li>
-<li>Turbomachinery</li>
-<li>Aeronautical propulsion</li>
-<li>Aerodynamics of transport systems</li>
-<li>Aeroacoustics</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Engineering Design, Systems & Applied Fields</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Finite Element Method</li>
-<li>CFD</li>
-<li>Numerical engineering design</li>
-<li>CAD and shape-oriented design</li>
-<li>Correlation between tests and calculations</li>
-<li>Industrial acoustics and vibroacoustics</li>
-<li>Mechanical manufacturing processes</li>
-<li>Virtual reality and prototyping</li>
-<li>Eco-design</li>
-<li>Product design</li>
-<li>Building-energy simulation, regulation and metrology</li>
-<li>Building thermal sciences and renewable energies</li>
-<li>Transport metrology, supervision and regulation</li>
-<li>Sustainable mobility systems</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- FEATURED PROJECTS -->
-<h2 style="color:#e9edf7;">✦ Featured Engineering Projects</h2>
-
-<table width="90%">
-<tr>
-
-<td width="50%" valign="top" align="left">
-
-<h3 style="color:#e9edf7;">Aerospace, Aerodynamics & Fluid Mechanics</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>High-lift devices and flaps in aviation</li>
-<li>Cylinder wake and aerodynamic coefficients</li>
-<li>Nozzle flow and propulsion-oriented analysis</li>
-<li>Transition from laminar to turbulent regime</li>
-<li>Pressure-loss characterization in internal flows</li>
-<li>Heat-transfer characterization in crossflow exchangers</li>
-<li>Compressible-flow and aerodynamic reasoning</li>
-<li>Boundary-layer and turbulence-oriented studies</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top" align="left">
-
-<h3 style="color:#e9edf7;">Systems, Control, Energy & Experimental Work</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Automatic control with MATLAB / Simulink / Home I/O</li>
-<li>Interdistance regulation and closed-loop reasoning</li>
-<li>Three-phase measurements and energetic assessment</li>
-<li>Telecommunication engineering investigation project</li>
-<li>Experimental validation and engineering interpretation</li>
-<li>Measurement-driven reasoning in fluids and thermal systems</li>
-<li>Multiphysics-oriented numerical thinking</li>
-<li>Physics-grounded engineering problem solving</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<h2 style="color:#e9edf7;">✦ Engineering Portfolio</h2>
-
-<p style="color:#c7ced9; line-height:1.7; width:90%; margin:auto;">
-A structured academic portfolio covering aerospace flow physics, advanced fluid and thermal sciences,
-continuum mechanics, dynamics, control, scientific computing, and physics-based engineering analysis.
-</p>
-
-<p>
 <a href="https://github.com/Koussay17/M.Koussay-engineering-portfolio">
-<img src="https://img.shields.io/badge/Open%20Portfolio-0d1020?style=for-the-badge&color=909db8">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3600&pause=900&color=1f3b73&center=true&vCenter=true&width=760&lines=Prove+what+is+provable.;Measure+what+is+measurable.;Say+where+it+breaks." alt="motto"/>
 </a>
-</p>
 
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- FUTURE OBSERVATORY -->
-<h2 style="color:#e9edf7;">✦ Future Observatory</h2>
-
-<table width="90%">
-<tr>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Scientific Direction</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Advanced aerospace fluid mechanics</li>
-<li>Supersonic and hypersonic aerodynamics</li>
-<li>Propulsion-oriented flow physics</li>
-<li>Multiphysics numerical simulation</li>
-<li>Theoretical physical modeling</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Engineering Development</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Higher-level CFD and FEM work</li>
-<li>Experimental / numerical correlation</li>
-<li>Complex fluids and nonlinear systems</li>
-<li>Structural and energetic modeling</li>
-<li>Aero-thermal system analysis</li>
-</ul>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 style="color:#e9edf7;">Long-Term Focus</h3>
-
-<ul style="color:#c7ced9; line-height:1.8;">
-<li>Aerospace theory and simulation</li>
-<li>Research-level fluid mechanics</li>
-<li>Applied mathematical modeling</li>
-<li>High-level engineering analysis</li>
-<li>Physics-based design logic</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- GITHUB STATS AND LANGUAGES SECTION -->
-<div align="center" style="
-display:flex;
-justify-content:center;
-gap:30px;
-flex-wrap:wrap;
-">
-
-<!-- BOX 1 -->
-<div style="
-padding:16px;
-border:1px solid #4b5671;
-border-radius:10px;
-background-color:rgba(11,15,31,0.4);
-">
-
-<h3 style="color:#e9edf7;">
-GitHub Stats
-</h3>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=transparent&title_color=e9edf7&text_color=b7bfcc&icon_color=8f98a8&border_color=4b5671&ring_color=7f8796&bg_color=00000000">
-
-</div>
-
-<!-- BOX 2 -->
-<div style="
-padding:16px;
-border:1px solid #4b5671;
-border-radius:10px;
-background-color:rgba(11,15,31,0.4);
-">
-
-<h3 style="color:#e9edf7;">
-Languages
-</h3>
-
-<img src="https://img.shields.io/badge/French-Native-0b0f1f?style=for-the-badge"/>
 <br><br>
-<img src="https://img.shields.io/badge/English-Professional-0b0f1f?style=for-the-badge"/>
+
+[![Portfolio](https://img.shields.io/badge/📄_Research_Portfolio-10_papers_·_138_pages-1f3b73?style=for-the-badge)](https://github.com/Koussay17/M.Koussay-engineering-portfolio)
+[![Location](https://img.shields.io/badge/Sousse-Tunisia-2f7d4f?style=for-the-badge)](#)
 
 </div>
-
-</div>
-
-<!-- HORIZONTAL DIVIDER -->
-<hr style="border:1px solid #2c3e67; width:90%;">
-
-<!-- CONTACT LINKS - Email and LinkedIn -->
-<p>
-<a href="mailto:koussay_mansouri@yahoo.com">
-<img src="https://img.shields.io/badge/Email-0d1020?style=for-the-badge&color=909db8">
-</a>
-
-<a href="https://linkedin.com/in/koussay-mansouri">
-<img src="https://img.shields.io/badge/LinkedIn-0d1020?style=for-the-badge&color=909db8">
-</a>
-</p>
 
 <br>
 
-<!-- FOOTER BANNER - Closing wave animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:05070b,25:120f2b,55:1a1f4d,80:2c3e67,100:bfc7d5">
+```
+                  ┌─────────────────────────────────────────────────────────┐
+                  │                                                         │
+                  │   A theorem is worth more than a simulation.             │
+                  │   A simulation that matches a theorem is worth more     │
+                  │   than either.                                          │
+                  │                                                         │
+                  │   A limit stated honestly is worth more than all three. │
+                  │                                                         │
+                  └─────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## What I actually do
+
+I write **research papers** where the analysis and the numerics have to agree,
+and I say by how much.
+
+Not "I ran a simulation and it looked like an instability." That proves nothing —
+the instability is obvious. What has evidentiary value is: *the growth rate I
+measured is $0.70\,\%$ from the root of the exact kinetic dispersion relation,
+mode by mode, with the fit window strictly inside the linear phase, and here are
+the three modes I refuse to quote because their window is contaminated.*
+
+Ten papers, all built the same way:
+
+<table>
+<tr><td width="33%" valign="top">
+
+**Prove**
+
+Theorems with full proofs.
+Frobenius, Howard, Penrose,
+Squire, Buckingham,
+Kármán–Howarth–Monin.
+Not cited — derived.
+
+</td><td width="33%" valign="top">
+
+**Verify**
+
+Independent code, no
+domain libraries. Compare
+against exact solutions
+and closed forms, never
+against a fitted curve.
+
+</td><td width="33%" valign="top">
+
+**Validate internally**
+
+Energy conservation.
+Constraint propagation.
+Rankine–Hugoniot.
+Quantities that test the
+code against *itself*.
+
+</td></tr>
+</table>
+
+<br>
+
+## Research portfolio
+
+<div align="center">
+
+### [→ M.Koussay-engineering-portfolio](https://github.com/Koussay17/M.Koussay-engineering-portfolio)
 
 </div>
+
+| # | field | what the paper proves | verified to |
+|:-:|---|---|:-:|
+| **01** | String cosmology | An Einstein-frame bounce requires $W(H)\le H^2$ — **identically violated at leading order**. No bounce below the string scale. | $3.9\!\times\!10^{-12}$ |
+| **02** | Kinetic plasma theory | Penrose's criterion in strong form; cold beams solved exactly, $\gamma_{\max}=\omega_p/2\sqrt2$ | $0.70\,\%$ |
+| **03** | Geometric mechanics | $[X_1,X_2]=a^{-2}E_z$ — the Lie bracket **predicts** the measured rolling holonomy | $0.9997918$ |
+| **04** | Kinetic → hydrodynamics | The $-\tfrac12$ in $\nu=c_s^2(\tau-\tfrac12)$ is trapezoidal integration, and it is worth $271\,\%$ | $0.156\,\%$ |
+| **05** | Periodic electromagnetics | Li's factorization rules: $N^{+0.07}\to N^{-1.15}$, gain $\times64$ | $R+T=1.000000000000$ |
+| **06** | Hydrodynamic stability | Exact neutral mode $\mathrm{sech}\,y$ at $k=1$; four theorems from one identity | $5.6\!\times\!10^{-17}$ |
+| **07** | Dynamical systems | Leapfrog integrates a modified Hamiltonian exactly — order 2 **beats** order 4 | order $4.00$ |
+| **08** | Polymer rheology | Oldroyd-B diverges at $\mathrm{Wi}=1/2$; the real regime is entirely beyond it | 8 digits |
+| **09** | Turbulence | The $4/5$ law forces $\zeta_3=1$; the anomaly is measured, not fitted | $1.60\,\%$ |
+| **10** | Hyperbolic conservation laws | Weak solutions are **not unique** — two exhibited for the same datum | $10^{-16}$ |
+
+Plus a **31-page computational notebook** rebuilding paper 01 from manifolds and
+connections upward, with eight worked exercises.
+
+<br>
+
+## One result, in full
+
+<details open>
+<summary><b>The Lie bracket that you can measure with a ball and two plates</b></summary>
+
+<br>
+
+Roll a sphere on a plane without slipping or twisting. The admissible velocity
+fields are
+
+$$X_1=\partial_x+\tfrac1a E_y,\qquad X_2=\partial_y-\tfrac1a E_x$$
+
+and their bracket is
+
+$$[X_1,X_2]=\frac{1}{a^2}\,E_z \;\notin\; \mathcal{D}$$
+
+By Frobenius the constraint is **non-integrable**. Then $[X_1,E_z]$ and
+$[X_2,E_z]$ generate the remaining directions, so the distribution is
+bracket-generating and — by Chow–Rashevskii — the sphere is **completely
+controllable**: you can return it to the same point with any orientation you
+like. That is why a car can parallel-park.
+
+But the bracket is not just an obstruction. It *is* the curvature of the rolling
+connection, so it makes a **prediction**: transport around a closed loop of area
+$\mathcal{A}$ rotates the ball by $\Theta\simeq\mathcal{A}/a^2$.
+
+I measured it — exact transport by ordered products of $\mathfrak{so}(3)$
+exponentials, no expansion:
+
+```
+𝒜/a²      Θ (rad)        Θ/𝒜
+0.0025    0.002499480    0.9997918     ← the area law
+0.0400    0.039867504    0.9966876
+0.2500    0.244988014    0.9799521
+```
+
+The first-order coefficient comes out of the hand-calculated bracket exactly.
+The second order is $-\mathcal{A}/12$ for a square — and it **depends on the
+shape of the loop**: at equal area $0.36$, a square gives $\Theta=0.3498$ but a
+$2.4\times0.15$ rectangle gives $0.2796$.
+
+That shape dependence is the signature of a **non-abelian** structure group. For
+an abelian connection — magnetic flux, Aharonov–Bohm — $\Theta$ would be
+*exactly* proportional to area. Here $SO(3)$ does not commute with itself, the
+holonomy is a path-ordered product, and the corrections are successive
+commutators.
+
+Sanity check that the whole thing is a genuine group element:
+$\|R_{\mathrm{direct}}\cdot R_{\mathrm{inverse}}-I\|=7\times10^{-13}$.
+
+</details>
+
+<br>
+
+## Toolbox
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+**Methods I've implemented from scratch, not called from a library:**
+
+```
+particle-in-cell (CIC + spectral Poisson)      Dormand–Prince 8(5,3), Radau
+lattice Boltzmann D2Q9 (Gauss–Hermite)         symplectic Störmer–Verlet
+rigorous coupled-wave analysis (RCWA)          Benettin variational algorithm
+exact Riemann solver for Euler                 generalized eigenvalue problems
+Rayleigh equation eigensolver                  Toeplitz operator inversion
+GOY shell model of turbulence                  Faddeeva-function root finding
+Oldroyd-B / FENE-P with log-conformation       SO(3) ordered exponentials
+```
+
+<br>
+
+## Fields, in the order I fell into them
+
+```
+aerospace & compressible flow ──┐
+                                ├──→ hyperbolic conservation laws, entropy conditions
+fluid mechanics ────────────────┤
+                                ├──→ hydrodynamic stability, turbulence, rheology
+kinetic theory ─────────────────┤
+                                ├──→ Vlasov–Poisson, Chapman–Enskog
+geometric mechanics ────────────┤
+                                ├──→ non-holonomic systems, symplectic integration
+field theory ───────────────────┘
+                                └──→ string cosmology, anomalous dimensions
+```
+
+The thread that ties them: **how macroscopic laws emerge, and where they fail.**
+Navier–Stokes from Boltzmann. Hydrodynamics from kinetics. Friedmann from
+strings. Every one of these emergences has a domain of validity, and finding its
+edge is more interesting than applying it inside.
+
+<br>
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Koussay17&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&title_color=1f3b73&icon_color=2f7d4f" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koussay17&layout=compact&theme=nightowl&hide_border=true&langs_count=8&title_color=1f3b73" alt="languages"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Koussay17&theme=nightowl&hide_border=true&ring=1f3b73&fire=b3452c&currStreakLabel=2f7d4f" alt="streak"/>
+
+</div>
+
+<br>
+
+## Currently
+
+- Extending the $\mathrm{O}(d,d)$ formalism to **Bianchi I**, to settle whether
+  the anisotropic instability of paper 01 is fatal or curable
+- Computing **perturbations through the bounce** — the background is now known
+  and regular to $10^{-12}$, so it's tractable
+- Implementing **adaptive spatial resolution** for RCWA, to break the
+  $N^{-1.15}$ edge-singularity ceiling of paper 05
+- Reading: Frisch on turbulence, Hairer–Lubich–Wanner on geometric integration,
+  Montgomery on sub-Riemannian geometry
+
+<br>
+
+<div align="center">
+
+## Open to
+
+**PhD positions · research internships · collaborations**
+
+theoretical & computational physics · fluid mechanics · kinetic theory · geometric mechanics
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-contact-b3452c?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10_papers-1f3b73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Koussay17/M.Koussay-engineering-portfolio)
+
+<br><br>
+
+> *"Ce que ce travail ne fait pas est tout aussi important."*
+>
+> Every paper I write ends with a section on its own limits — stated,
+> quantified, and left open. It is the section I spend the longest on,
+> and the one a jury reads first.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b3452c,50:2f7d4f,100:1f3b73&height=110&section=footer" width="100%"/>
+
+</div>
+
+<!--
+  ─────────────────────────────────────────────────────────────────────
+  TO CUSTOMIZE BEFORE PUBLISHING:
+    · Email and LinkedIn badges above have placeholder links (#) — add yours
+    · "Currently" section: edit to match what you're actually working on
+    · If you want a specific academic title (student / graduate / etc.),
+      add it under the header — I left it out rather than guess
+    · Stats cards render from your public activity automatically
+  ─────────────────────────────────────────────────────────────────────
+-->
