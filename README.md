@@ -137,7 +137,7 @@ nine terms — with eight worked exercises.
 
 <br>
 
-# ❖ III · TABVLÆ
+# ❖ III · TABVLAE
 
 ### Eight plates from the codex
 
