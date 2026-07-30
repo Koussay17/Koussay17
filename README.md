@@ -23,22 +23,6 @@
 
 </div>
 
-<br>
-
-```
-   ╔═══════════════════════════════════════════════════════════════════════╗
-   ║                                                                       ║
-   ║     I build aircraft in the daytime and question spacetime at night.  ║
-   ║                                                                       ║
-   ║     Aerospace engineering taught me that a number without an error    ║
-   ║     bar is a rumour. Theoretical physics taught me that a theorem     ║
-   ║     without a stated domain of validity is a lie of omission.         ║
-   ║                                                                       ║
-   ║     I intend to spend a PhD on the second, without ever forgetting    ║
-   ║     the first.                                                        ║
-   ║                                                                       ║
-   ╚═══════════════════════════════════════════════════════════════════════╝
-```
 
 <br>
 
