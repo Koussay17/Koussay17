@@ -14,7 +14,7 @@
 
 [![Codex](https://img.shields.io/badge/⛭_THE_CODEX-10_papers_·_138_pages-1f3b73?style=for-the-badge&labelColor=08090c)](https://github.com/Koussay17/M.Koussay-engineering-portfolio)
 [![Theorems](https://img.shields.io/badge/theorems_proved-40+-4a1f2e?style=for-the-badge&labelColor=08090c)](#)
-[![Sousse](https://img.shields.io/badge/Sousse-Tunisia-1f4d3a?style=for-the-badge&labelColor=08090c)](#)
+[![France](https://img.shields.io/badge/Lille-France-1f4d3a?style=for-the-badge&labelColor=08090c)](#)
 
 <br>
 
